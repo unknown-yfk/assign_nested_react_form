@@ -1,27 +1,24 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# setup and mobile first
 
-> To setup Mobile version of Portfolio website.
+# React nested form
+
+> Nested form using react and bootstrap.
+
 
 
 ## Built With
 
-- HTML/CSS
+- HTML/CSS, 
+- React js/Bootstrap, 
+
 
 ## Author
 
-👤 **Bekure**
+👤 **Fike**
 
-- GitHub: [@bekure27](https://github.com/githubhandle)
-- Twitter: [@bekure14](https://twitter.com/twitterhandle)
+- GitHub: [@unknown-yfk](https://github.com/githubhandle)
 
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -29,7 +26,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse Team
+- KF software development
 
 ## 📝 License
 
