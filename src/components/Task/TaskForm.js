@@ -1,6 +1,6 @@
 import { useState } from "react"
 import TaskList from "./TaskList"
-import TaskForm2 from "../TaskForm2"
+import TaskForm2 from "./TaskForm2"
 
 
 const TaskForm = () => {
@@ -10,6 +10,7 @@ const TaskForm = () => {
 
 
     const handleAddFields = () => {
+      
        setHobby([...hobby, {firstname:'',lastname:''},
       ])
     }

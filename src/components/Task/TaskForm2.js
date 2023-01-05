@@ -1,5 +1,5 @@
 import { useState } from "react"
-import TaskList2 from "./Task/TaskList2"
+import TaskList2 from "./TaskList2"
 
 
 
